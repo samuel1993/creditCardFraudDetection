@@ -1,5 +1,5 @@
 # creditCardFraudDetection
-Operacionalização de um modelo de ML utilizando o dadaset creditCardFraudDetection no Kaggle.
+Operacionalização de um modelo de ML utilizando o dadaset creditCardFraudDetection do Kaggle.
 </br>
 **\*** **O dataset foi reduzido pois o GitHub só aceita arquivos até 100MB.**
 
