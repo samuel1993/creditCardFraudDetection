@@ -1,6 +1,7 @@
 # creditCardFraudDetection
 Operacionalização de um modelo de ML utilizando o dadaset creditCardFraudDetection no Kaggle.
-******* O dataset foi reduzido pois o GitHub só aceita arquivos até 100MB.
+</br>
+**\*** **O dataset foi reduzido pois o GitHub só aceita arquivos até 100MB.**
 
 Para executar o código, basta executar o arquivo /code/dag.py
 
